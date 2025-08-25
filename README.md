@@ -1,6 +1,6 @@
 # maven-demo
 
-Clone this to your workspace
+Clone this to your workspace:
 
     git clone https://github.com/davidmoten/maven-demo.git
 
