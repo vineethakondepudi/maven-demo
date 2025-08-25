@@ -13,7 +13,7 @@ To import this maven structured project into Eclipse:
 
 The project includes a dependency on *r-tree*, a main class `Thing` and a test class `ThingTest`.
 
-h
+
 ##Build 
 To build from the command line (to produce a jar for instance):
 
